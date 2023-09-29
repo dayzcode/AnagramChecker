@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-27T15:47:28.144098Z</date>
+  <millis>1695829648144</millis>
+  <nanos>98000</nanos>
+  <sequence>0</sequence>
+  <logger>AnagramChecker</logger>
+  <level>INFO</level>
+  <class>org.example.AnagramChecker</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The two text values are anagrams.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-27T15:56:03.389840Z</date>
+  <millis>1695830163389</millis>
+  <nanos>840000</nanos>
+  <sequence>0</sequence>
+  <logger>AnagramChecker</logger>
+  <level>INFO</level>
+  <class>org.example.AnagramChecker</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The two text values are not anagrams.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-27T16:02:49.730269Z</date>
+  <millis>1695830569730</millis>
+  <nanos>269000</nanos>
+  <sequence>0</sequence>
+  <logger>AnagramChecker</logger>
+  <level>INFO</level>
+  <class>org.example.AnagramChecker</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The two text values are not anagrams.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-27T16:07:03.138124Z</date>
+  <millis>1695830823138</millis>
+  <nanos>124000</nanos>
+  <sequence>0</sequence>
+  <logger>AnagramChecker</logger>
+  <level>INFO</level>
+  <class>org.example.AnagramChecker</class>
+  <method>handleNotAnagrams</method>
+  <thread>1</thread>
+  <message>The two text values are not anagrams.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-27T16:11:21.814591Z</date>
+  <millis>1695831081814</millis>
+  <nanos>591000</nanos>
+  <sequence>0</sequence>
+  <logger>AnagramChecker</logger>
+  <level>INFO</level>
+  <class>org.example.AnagramChecker</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The two text values are anagrams.</message>
+</record>
+</log>

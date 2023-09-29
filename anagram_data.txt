@@ -1,0 +1,6 @@
+matthew|lama|lama|true
+matthew|lama|mama|false
+devine|orange|apple|false
+user|word1|word2|true
+devine|lama|loma|false
+devine|peep|peep|true
